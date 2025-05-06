@@ -35,4 +35,4 @@ Este projeto foi desenvolvido para fins educativos e demonstra como capturar IPs
 ## Autor
 
 Felipe de Almeida Fragoso  
-Email: mesaalphaville@gmail.com
+Email: felipefragoso2025@gmail.com
